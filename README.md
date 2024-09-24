@@ -4,11 +4,11 @@
 
 🧠 Analítico, 📊 metódico y 💡 resolutivo.
 
-📚 Con más de 2 años de dedicación al aprendizaje autodidacta y perfeccionamiento en la creación de soluciones tecnológicas. 🎓💻
+📚 +2 años de dedicación al aprendizaje autodidacta y perfeccionamiento en la creación de soluciones tecnológicas. 🎓💻
 
-🚀 Especializado en TypeScript, pero con experiencia en otros lenguajes y tecnologías web. 💼🔧
+🚀 Especializado en TypeScript, pero cuento con experiencia en otros lenguajes y tecnologías web. 💼🔧
 
-🎓 Capacidad de aprendizaje rápido y adaptabilidad a nuevos entornos. 🌱🔄
+🎓 Capacidad de aprendizaje rápido y gran adaptabilidad a nuevos entornos. 🌱🔄
 
 ---
 
@@ -17,6 +17,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 

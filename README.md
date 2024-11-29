@@ -4,11 +4,11 @@
 
 🧠 Analítico, 📊 metódico y 💡 resolutivo.
 
-📚 +2 años de dedicación al aprendizaje autodidacta y perfeccionamiento en la creación de soluciones tecnológicas. 🎓💻
++2 años de trabajo dedicado a aprender por cuenta propia y mejorar en el desarrollo de soluciones tecnológicas.
 
-🚀 Especializado en TypeScript, pero cuento con experiencia en otros lenguajes y tecnologías web. 💼🔧
+Especializado en TypeScript, aunque también trabajo con diversos lenguajes y tecnologías web.
 
-🎓 Capacidad de aprendizaje rápido y gran adaptabilidad a nuevos entornos. 🌱🔄
+Habilidad para aprender rápidamente y capacidad de adaptarse fácilmente a nuevos entornos.
 
 ---
 

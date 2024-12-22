@@ -4,11 +4,9 @@
 
 🧠 Analítico, 📊 metódico y 💡 resolutivo.
 
-+2 años de trabajo dedicado a aprender por cuenta propia y mejorar en el desarrollo de soluciones tecnológicas.
+Con más de 2 años de experiencia adquirida de manera autodidacta, avanzando en el desarrollo de soluciones tecnológicas. Apliqué mis conocimientos desarrollando un sitio web para Gray Gorilla Fitness y automaticé tareas usando Python.
 
-Especializado en TypeScript, aunque también trabajo con diversos lenguajes y tecnologías web.
-
-Habilidad para aprender rápidamente y capacidad de adaptarse fácilmente a nuevos entornos.
+Me destaco por mi capacidad de aprender rápidamente y adaptarme a nuevos entornos. Disfruto investigar y trabajar de forma independiente; no obstante, valoro la colaboración en equipo, contribuyendo de manera efectiva a los objetivos.
 
 ---
 

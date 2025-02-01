@@ -4,9 +4,11 @@
 
 🧠 Analítico, 📊 metódico y 💡 resolutivo.
 
-Con más de 2 años de experiencia adquirida de manera autodidacta, avanzando en el desarrollo de soluciones tecnológicas. Apliqué mis conocimientos desarrollando un sitio web para Gray Gorilla Fitness y automaticé tareas usando Python.
+Desarrollador Web Full Stack, más de 2 años de experiencia adquirida de manera autodidacta. Apliqué mis conocimientos desarrollando un sitio web para Gray Gorilla Fitness y automatizando tareas utilizando Python.
 
-Me destaco por mi capacidad de aprender rápidamente y adaptarme a nuevos entornos. Disfruto investigar y trabajar de forma independiente; no obstante, valoro la colaboración en equipo, contribuyendo de manera efectiva a los objetivos.
+Disfruto investigar y trabajar de forma independiente; no obstante, valoro la colaboración en equipo. En Izertis, superviso y coordino operadores durante el turno asignado para garantizar la continuidad del servicio.
+
+Fuera del trabajo, mis pasatiempos preferidos son el ajedrez y la música clásica, porque disfruto del análisis y la creatividad. Me ayuda en el desarrollo, optimizando procesos y creando soluciones.
 
 ---
 

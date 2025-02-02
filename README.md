@@ -1,4 +1,4 @@
-![Brandon M. Medina R.](./img/banner.png)
+![Brandon M. Medina R.](./img/banner_github.png)
 
 ---
 

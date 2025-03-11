@@ -2,13 +2,11 @@
 
 ---
 
-🧠 Analítico, 📊 metódico y 💡 resolutivo.
+Desarrollador Web Full Stack con más de 3 años de experiencia autodidacta en TypeScript, React, TailwindCSS, Next.js, Astro, Node.js, NestJS, PostgreSQL, Git & GitHub. Durante mi trayectoria, he aplicado mis conocimientos desarrollando proyectos como el sitio web para Gray Gorilla Fitness y automatizando tareas con Python.
 
-Desarrollador Web Full Stack con más de 3 años de experiencia autodidacta. Durante mi trayectoria, he aplicado mis conocimientos desarrollando proyectos como el sitio web para Gray Gorilla Fitness y automatizando tareas con Python.
+Disfruto investigar y trabajar de forma independiente; no obstante, valoro la colaboración en equipo. En mi puesto actual, superviso y coordino operadores durante un turno asignado para asegurar la continuidad del servicio.
 
-Disfruto investigar y trabajar de forma independiente; no obstante, valoro la colaboración en equipo. En Izertis, superviso y coordino operadores durante el turno asignado para asegurar la continuidad del servicio.
-
-Fuera del ámbito laboral, me apasiona el ajedrez y la música clásica. Estas aficiones potencian mi capacidad analítica y creativa. Me ayudan en el desarrollo, optimizando procesos y creando soluciones.
+Si tuviera que describirme en pocas palabras, diría que soy analítico, metódico y resolutivo. Fuera del ámbito laboral, me apasionan el ajedrez y la música clásica, aficiones que potencian mis habilidades blandas.
 
 ---
 

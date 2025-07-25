@@ -2,9 +2,9 @@
 
 ---
 
-Desarrollador Web Full Stack con más de 3 años de experiencia autodidacta en TypeScript, React, TailwindCSS, Next.js, Astro, Node.js, NestJS, PostgreSQL, Git & GitHub. Durante mi trayectoria, he aplicado mis conocimientos desarrollando proyectos como el sitio web para Gray Gorilla Fitness y automatizando tareas con Python.
+Desarrollador Web Full Stack con más de 3 años de experiencia especializado en Next.js, Astro, React y Node.js. Durante mi trayectoria, he desarrollado proyectos como el sitio web para Gray Gorilla Fitness y automatizado tareas con Python.
 
-Disfruto investigar y trabajar de forma independiente; no obstante, valoro la colaboración en equipo. En mi puesto actual, superviso y coordino operadores durante un turno asignado para asegurar la continuidad del servicio.
+Disfruto investigando y trabajando de forma independiente; no obstante, aprecio el trabajo colaborativo. Actualmente, superviso y coordino operadores en un entorno técnico, garantizando la continuidad del servicio.
 
 Si tuviera que describirme en pocas palabras, diría que soy analítico, metódico y resolutivo. Fuera del ámbito laboral, me apasionan el ajedrez y la música clásica, aficiones que potencian mis habilidades blandas.
 
@@ -39,4 +39,3 @@ Si tuviera que describirme en pocas palabras, diría que soy analítico, metódi
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
